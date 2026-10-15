@@ -1,0 +1,7 @@
+parchis/modelo/ObservadorDado.class
+parchis/modelo/ModeloDado.class
+parchis/vista/VistaDado.class
+parchis/modelo/IModeloDado.class
+parchis/modelo/IModeloDadoLectura.class
+parchis/vista/VistaHistorial.class
+parchis/controlador/ControlDado.class
